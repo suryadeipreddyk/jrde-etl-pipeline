@@ -1,0 +1,6 @@
+requests
+psycopg2-binary
+pyodbc
+sqlalchemy
+python-dotenv
+unixodbc
